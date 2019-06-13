@@ -1,4 +1,4 @@
-def my_collect(languages)
+def my_collect(empty_array)
  i = 0
  while i < languages.upcase
    yield (array[i])
